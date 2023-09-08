@@ -29,11 +29,6 @@
 			<optional>true</optional>
 		</dependency>
 
-		<dependency>
-			<groupId>org.apache.tomcat</groupId>
-			<artifactId>tomcat-native</artifactId>
-			<version>1.2.34</version>
-		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
